@@ -1,0 +1,15 @@
+{
+  "poker_variants": [
+    "Texas Hold'em",
+    "Omaha 4 card",
+    "Omaha 5 card",
+    "Omaha 6 card",
+    "Super Hold'em",
+    "7 Card Stud",
+    "Reverse Omaha",
+    "Cincinnetti",
+    "Irish",
+    "Pineapple",
+    "Crazy Pineapple"
+  ]
+}
